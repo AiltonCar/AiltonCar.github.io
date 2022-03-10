@@ -1,6 +1,6 @@
 ## Bienvenidos a AiltonCar
 
-You can use the [editor on GitHub](https://github.com/AiltonCar/AiltonCar.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Esta empresa se dedica a vender automoviles de cualquier clase y de cualquier tipo, siempre taratando de adaptarse a las necesidades del cliente 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
