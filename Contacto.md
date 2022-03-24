@@ -7,9 +7,9 @@
   <label for="lname">Apellidos:</label><br>
   <input type="text" id="lname" name="lname" valve="Apellidos"><br>
   <laber for="1name">Numero telefonico::</label><br>
-  <input type="text" id="1name" name="1name" value="numero telefonico"><br><br>
+  <input type="text" id="1name" name="1name" value=""><br><br>
   <label for="1name">Correo electronico:</label><br>
-  <input type="text" id="1name" name="1name" value="correo electronico"><br><br>
+  <input type="text" id="1name" name="1name" value=""><br><br>
 <input type="submit" value="enviar">
   <label for="start">Start date:</label>
   
