@@ -7,7 +7,7 @@
   <input type="text" id="name" name="name" valve=""><br>
   <label for="lname">Apellidos:</label><br>
   <input type="text" id="lname" name="lname" valve=""><br>
-  <laber for="name">Correo electronico:</label><br>
+  <laber for="name"> Correo electronico:</label><br>
   E-mail: <input type="text" name="email"><br>
   <label for="name">Contacto:</label><br>
   <input type="text" id="number" name="number" value=""><br><br>
