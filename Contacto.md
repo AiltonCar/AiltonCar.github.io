@@ -2,7 +2,7 @@
 
 ##  SOPORTE DE CONTACTO
 
-<form action="" method="post">
+<form action="https://formspree.io/f/xjvlondj" method="post">
   <label for="name">Nombres:</label><br>
   <input type="text" id="name" name="name" value=""><br>
   <label for="lname">Apellidos:</label><br>
